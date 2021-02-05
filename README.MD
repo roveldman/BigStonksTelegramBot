@@ -11,3 +11,6 @@ This will delete your old container upon running and create
 a new one copying the old database file.
 
 Running this will save the copy of the database to the a backups folder.
+
+You will be prompted for the name of the Docker container. Pick the running
+instance of "stonk-dev" and type its name. This will ensure the DB is copied.
