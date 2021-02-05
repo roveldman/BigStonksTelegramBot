@@ -1,8 +1,8 @@
 # Big Stonks Telegram Bot
 
 ## Credentials
-- Place Telegram bot key in single line in "telegram.txt"
-- Place IEX Cloud secret key in single line in "iex.txt"
+- Place Telegram bot key in single line in "bigtelegram.txt" in the visual studio project folder
+- Place IEX Cloud secret key in single line in "iex.txt" similarly
 
 ## Docker Script
 
