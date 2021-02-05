@@ -14,3 +14,11 @@ Running this will save the copy of the database to the a backups folder.
 
 You will be prompted for the name of the Docker container. Pick the running
 instance of "stonk-dev" and type its name. This will ensure the DB is copied.
+
+## Commands
+
+- /buy SYMBOL SHARES
+- /sell SYMBOL SHARES
+- /me
+- /leaderboard
+- /price SYMBOL
